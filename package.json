@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon index.js",
+    "inspect": "nodemon --inspect-brk index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "nodemon": "^1.17.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {}
+}
