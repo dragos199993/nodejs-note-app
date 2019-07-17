@@ -1,7 +1,5 @@
 # Node JS Note app CLI
 
-Author: http://nedsilon.com
-
 # How to use?
 First run:
 ```sh
