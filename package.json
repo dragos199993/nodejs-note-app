@@ -9,7 +9,7 @@
     "inspect": "nodemon --inspect-brk index.js"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "nodemon": "^1.17.5",
     "yargs": "^11.0.0"
   },
